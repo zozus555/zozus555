@@ -2,7 +2,7 @@
 
 ## <p align="center">:beginner: Hi, I’m Thirapat ( Thirapat12 ) <img src="https://user-images.githubusercontent.com/7834790/184056672-9da4965c-5d3f-4cbb-acc5-14f99f03617e.png"/></p>
 
-## <p align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hi+there!+I'm+Thirapat12;I'm+a+DevOps+Engineer...)](https://git.io/typing-svg)</p>
+## <p align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hi+there!+I'm+Bright;I'm+a+DevOps+Engineer...)](https://git.io/typing-svg)</p>
 
 
 ## :headphones: About Me 👋  
