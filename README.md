@@ -75,7 +75,7 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 <div id="badges">
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/THIRAPAT12-%231DA1F2.svg?style=for-the-badge&logo=website&logoColor=white"></a> 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/THIRAPAT12-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/thirapat-amornsin-9825ab15a"><img src="https://img.shields.io/badge/Thirapat_Amornsin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/apinun-khunkitti-18b315280/"><img src="https://img.shields.io/badge/Apinun_Khunkitti-%23BE33FF.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Phattime-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Thirapat12-%23EF4C20.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Thirapat12-%230db7ed.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
