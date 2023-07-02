@@ -5,10 +5,10 @@
 ## :headphones: About Me 
 Versatile IT support and Systems Engineer with over 5 years of cross-functional leadership in implementation validation and deployment for the whole organization. Exceptional knowledge of CI/CD operation with hands-on experience of DevOps Engineer over 3 years. 
 
-- I'm Work on Outsourcing at AIS ( Advanced Info Services Public Company Limited - DEVOPS Engineer AIS-IRM ) ( Previous DEVEN Team ITSM )
-- :icecream: I’m interested in DevOps Engineer & Data Analysis & System Engineer, Adminstrator
-- :book: I’m currently learning to english language, DevOps Flow CNCF landscape & everythings haha !!
-- :space_invader: How to reach me ...
+- I'm Work on at AIS ( Advanced Info Services Public Company Limited - DEVOPS Engineer AIS-IRM ) ( Previous DEVEN Team ITSM )
+- :icecream: I’m interested in DevOps Engineer & Data Analysis & System Engineer, Adminstrator.
+- :book: I’m currently learning to DevOps Flow CNCF landscape & everythings !!
+- :space_invader: I’m trying to learn about flow Github action as well as Argocd implementation.
 - :circus_tent: Ask me about Docker, Nginx, Jenkins( Jenkins Pipeline CI/CD ), K8S, ELK Stack, etc..
 
 <p align="center"><img src="https://user-images.githubusercontent.com/7834790/183679318-f36690a0-8c11-4ec1-af94-0b1ac36b4d20.png" width=50% /> 
