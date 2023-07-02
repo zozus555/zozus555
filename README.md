@@ -67,13 +67,18 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 
 ## ☺️ In My Free Time  
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=oerj8c7l8jz5bcppkuy2xw7kz&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=oerj8c7l8jz5bcppkuy2xw7kz&redirect=true)
+<p><img align="center" src="https://i.kym-cdn.com/photos/images/original/000/677/650/01a.gif" alt="adam-pw" /></p>
 
------
+<p><img align="center" src="https://i.kym-cdn.com/photos/images/original/000/677/650/01a.gif" alt="adam-pw" /></p>
+
+<img align="center" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
+
+<p><img align="center" src="https://img.soccersuck.com/images/2023/06/11/Z2Y92AWNDEXTC7LWA4P6.gif" alt="adam-pw" /></p>
+
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=zozus555&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=zozus555&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=aveek-saha&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=zozus555&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
  </p>
