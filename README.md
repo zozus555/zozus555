@@ -67,14 +67,10 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 
 ## ☺️ In My Free Time  
 
-<p><img align="center" src="https://i.kym-cdn.com/photos/images/original/000/677/650/01a.gif" alt="adam-pw" /></p>
+<p><img src="https://img.soccersuck.com/images/2023/06/11/Z2Y92AWNDEXTC7LWA4P6.gif" alt="adam-pw" /> <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fc/Axe-taunt-ComeNGetIt.gif/revision/latest/scale-to-width-down/240?cb=20130513085441" /></p> 
+<p><img width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" /></p>
 
-<p><img align="center" src="https://i.kym-cdn.com/photos/images/original/000/677/650/01a.gif" alt="adam-pw" /></p>
-
-<img align="center" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
-
-<p><img align="center" src="https://img.soccersuck.com/images/2023/06/11/Z2Y92AWNDEXTC7LWA4P6.gif" alt="adam-pw" /></p>
-
+-----
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=zozus555&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=zozus555&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
