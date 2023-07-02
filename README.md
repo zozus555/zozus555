@@ -3,7 +3,7 @@
 ## <p align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hi+there!+I'm+Bright👋;I'm+a+DevOps+Engineer...)](https://git.io/typing-svg)</p>
 
 ## :headphones: About Me 
-Versatile IT support and Systems Engineer with over 5 years of cross-functional leadership in implementation validation and deployment for the whole organization. Exceptional knowledge of CI/CD operation with hands-on experience of DevOps Engineer over 3 years. 
+Versatile IT support and Systems Engineer with over 5 years of cross-functional leadership in implementation validation and deployment for the whole organization. Exceptional knowledge of CI/CD operation with hands-on experience of DevOps Engineer over 2 years. 
 
 - I'm Work on at AIS ( Advanced Info Services Public Company Limited - DEVOPS Engineer AIS-IRM ) ( Previous DEVEN Team ITSM )
 - :icecream: I’m interested in DevOps Engineer & Data Analysis & System Engineer, Adminstrator.
