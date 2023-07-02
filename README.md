@@ -2,7 +2,7 @@
 
 ## <p align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hi+there!+I'm+Bright👋;I'm+a+DevOps+Engineer...)](https://git.io/typing-svg)</p>
 
-## :headphones: About Me 
+## About Me 
 Versatile IT support and Systems Engineer with over 5 years of cross-functional leadership in implementation validation and deployment for the whole organization. Exceptional knowledge of CI/CD operation with hands-on experience of DevOps Engineer over 2 years. 
 
 - I'm Work on at AIS ( Advanced Info Services Public Company Limited - DEVOPS Engineer AIS-IRM ) ( Previous DEVEN Team ITSM )
@@ -15,7 +15,7 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-## :mega: Skills 
+## Skills 
 ![ANSIBLE AWX](https://img.shields.io/badge/ansible-awx-%23FF0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Azure Kubernetes Service](https://img.shields.io/badge/AKS-%230A66C2.svg?style=for-the-badge&logo=AKS&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -44,10 +44,10 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 ![Vmware ESXI](https://img.shields.io/badge/ESXI-%23607078.svg?style=for-the-badge&logo=vmware&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudio-Code-%230A66C2.svg?style=for-the-badge&logo=VSCode&logoColor=1B1B1F)
 
-## :computer: Coding Skills
+## Coding Skills
 ![Python Basic](https://img.shields.io/badge/python-basic-%233570A0.svg?style=for-the-badge&logo=python&logoColor=FFE05D)
 
-## <!--<img src = "" alt="" height="50" width="60">-->:hammer: Operating System 
+## Operating System 
 ![Windows](https://img.shields.io/badge/windows-client/server-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%231793D1.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=Debian&logoColor=white)
@@ -55,7 +55,7 @@ Versatile IT support and Systems Engineer with over 5 years of cross-functional 
 ![Redhat](https://img.shields.io/badge/Redhat-%239D9D9D.svg?style=for-the-badge&logo=Redhat&logoColor=white)
 ![Fedora Coreos Bare Metal](https://img.shields.io/badge/fedora-coreos-%23CF53E8.svg?style=for-the-badge&logo=fedora&logoColor=white)
 
-## :earth_asia: Social Media 
+## Social Media 
 <div id="badges">
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Apinun_Khunkitti-%231DA1F2.svg?style=for-the-badge&logo=facebook&logoColor=white"></a> 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Apinun_Khunkitti-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
